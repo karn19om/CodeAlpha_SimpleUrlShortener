@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>404 — Snip</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@800&family=DM+Mono&display=swap" rel="stylesheet" />
+  <style>
+    body { background:#0a0a0f; color:#e8e8f0; font-family:'Syne',sans-serif; display:grid; place-items:center; min-height:100vh; margin:0; text-align:center; }
+    h1 { font-size:96px; font-weight:800; color:#e8ff47; margin:0; line-height:1; }
+    p  { font-family:'DM Mono',monospace; color:#5a5a78; margin:16px 0 32px; }
+    a  { color:#e8ff47; text-decoration:none; font-size:14px; border:1px solid #e8ff47; padding:10px 24px; border-radius:8px; }
+    a:hover { background:rgba(232,255,71,.08); }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>404</h1>
+    <p>// short link not found or expired</p>
+    <a href="/">← Back to Snip</a>
+  </div>
+</body>
+</html>
